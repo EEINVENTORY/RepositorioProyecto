@@ -4,7 +4,7 @@
  
  # Introducción
 
-En la actualidad las aplicaciones tecnológicas y el software inteligente juegan un papel importante en todas las organizaciones, es una necesidad que requiere cambios constantes y ajustes automáticos de acuerdo a lo solicitado.
+En la actualidad las aplicaciones tecnológicas y el software inteligente juegan un papel importante en todas las organizaciones es una necesidad que requiere cambios constantes y ajustes automáticos de acuerdo a lo solicitado.
 El proyecto planteado implementa un aplicativo programado a medida de las necesidades de la sede para el control de inventarios de hardware.
 Esta solución consiste en la elaboración de un software que administra y presenta información referente a las características físicas y descriptivas de los equipos.
 
