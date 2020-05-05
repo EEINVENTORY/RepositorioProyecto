@@ -21,18 +21,18 @@ Desarrollar un software a la medida para realizar tareas de gestión de inventar
 
 # Objetivos Específicos
 
-1.Ejecutar el levantamiento de la información correspondiente a recursos físicos como equipos de cómputo, capturando sus características diferenciadoras como su marca y referencia para alimentar la información del repositorio de datos que almacene esta información, así mismo establecer qué aplicativo se adecua a las necesidades de la sede.
-2.Diseñar una rutina de autenticación contra Directorio Activo para los usuarios que pretendan ingresar al sistema de control de inventarios.
-3.Crear roles específicos para los usuarios que van a utilizar la aplicación mediante módulos que encapsulen funciones específicas, de tal manera que las tareas de un operario difieran de las sugeridas para un administrador. 
-4.Establecer orden en los activos más sobresalientes según su importancia y aplicación, que darán forma al nuevo modelo de inventarios mediante el uso de un diagrama A, B, C.
+1. Ejecutar el levantamiento de la información correspondiente a recursos físicos como equipos de cómputo, capturando sus características diferenciadoras como su marca y referencia para alimentar la información del repositorio de datos que almacene esta información, así mismo establecer qué aplicativo se adecua a las necesidades de la sede.
+2. Diseñar una rutina de autenticación contra Directorio Activo para los usuarios que pretendan ingresar al sistema de control de inventarios.
+3. Crear roles específicos para los usuarios que van a utilizar la aplicación mediante módulos que encapsulen funciones específicas, de tal manera que las tareas de un operario difieran de las sugeridas para un administrador. 
+4. Establecer orden en los activos más sobresalientes según su importancia y aplicación, que darán forma al nuevo modelo de inventarios mediante el uso de un diagrama A, B, C.
 
 # Alcance
 
 El presente proyecto contempla todos los modelos de inventarios necesarios para el debido desarrollo de un nuevo modelo a implementar, para el control apropiado sobre los inventarios de la sede Colombia, describiendo la mejor solución para el manejo del inventario en base al almacenamiento, donde se trabajarán sobre estos aspectos:
  
-1.Diseño e implementación del software que controlara físicamente los activos existentes.
+1. Diseño e implementación del software que controlara físicamente los activos existentes.
  
-2.Encontrar y contrarrestar cada necesidad por medio 
+2. Encontrar y contrarrestar cada necesidad por medio 
 del nuevo software.
 
 3. Modificar el estado de los activos que estén en la base de 
@@ -42,6 +42,11 @@ datos del software.
 
 El proyecto de inventario será creado con el fin de brindar soluciones, obtener y garantizar un buen manejo de los activos implementando un inventario de software para activos físicos.
 
+# Integrantes
+
+- Jefferson Steven Matoma
+- Henry Eduardo Pineda
+- Cristian David Gonzalez
 
 
 
